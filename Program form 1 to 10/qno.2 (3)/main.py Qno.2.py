@@ -1,1 +1,0 @@
-print("C language is a powerful language ")
